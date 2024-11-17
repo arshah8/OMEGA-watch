@@ -3,9 +3,6 @@ import localFont from "next/font/local";
 import "./globals.css";
 
 
-const myFont = localFont({
-  src: './fonts/Omega+Sans+Regular.ttf', 
-});
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
